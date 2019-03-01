@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+master a2
+master a3
+master a4
+=======
+issue1 a1
+issue1 a2
+issue1 a3
+>>>>>>> issue1
+=======
+master a2
+issue2 a1
+issue2 a2
+>>>>>>> issue2
